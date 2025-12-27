@@ -1,0 +1,15 @@
+{
+  "name": "לוח משימות שבועי",
+  "short_name": "משימות",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eef2ff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/747/747310.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
